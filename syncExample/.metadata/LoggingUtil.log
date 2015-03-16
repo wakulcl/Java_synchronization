@@ -1,0 +1,142 @@
+<!-- com.ibm.etools.logging.util log file -->
+<NODE logging.util.node_id="NODE.HPT-Desex3.laaraucana.local" logging.util.hostname="HPT-Desex3.laaraucana.local" logging.util.ipaddress="172.16.137.206" logging.util.timezone="240" logging.util.time="1230730522,343"/>
+<PROCESS_CREATE logging.util.process_id="PROCESS_CREATE.eclipse.1230730522,343" logging.util.pid="24183153" logging.util.node_idref="NODE.HPT-Desex3.laaraucana.local" logging.util.time="1230730522,343" logging.util.process_environment="unknown" logging.util.process_application_execution=""/>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.logging.util.1230730522,203" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230730522,343" logging.util.agent_name="com.ibm.etools.logging.util" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230730522,203"/>
+<BuildInfo logging.util.id="com.ibm.etools.logging.util.BuildInfo_12307305222650000" logging.util.agent_idref="com.ibm.etools.logging.util" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305222650001" Name="com.ibm.etools.logging.util.BuildInfo" Type="class" Package="com.ibm.etools.logging.util" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.validation.1230730546,421" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230730522,343" logging.util.agent_name="com.ibm.etools.validation" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230730546,421"/>
+<BuildInfo logging.util.id="com.ibm.etools.validate.plugin.BuildInfo_12307305464210000" logging.util.agent_idref="com.ibm.etools.validation" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305464210001" Name="com.ibm.etools.validate.plugin.BuildInfo" Type="class" Package="com.ibm.etools.validate.plugin" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<BuildInfo logging.util.id="com.ibm.etools.validate.mof.plugin.BuildInfo_12307305464210002" logging.util.agent_idref="com.ibm.etools.validation" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305464210003" Name="com.ibm.etools.validate.mof.plugin.BuildInfo" Type="class" Package="com.ibm.etools.validate.mof.plugin" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.sed.model.1230730546,437" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230730522,343" logging.util.agent_name="com.ibm.sed.model" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230730546,437"/>
+<BuildInfo logging.util.id="com.ibm.sed.model.BuildInfo_12307305464370000" logging.util.agent_idref="com.ibm.sed.model" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305464370001" Name="com.ibm.sed.model.BuildInfo" Type="class" Package="com.ibm.sed.model" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<BuildInfo logging.util.id="com.ibm.etools.validate.ui.plugin.BuildInfo_12307305710780000" logging.util.agent_idref="com.ibm.etools.validation" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305710780001" Name="com.ibm.etools.validate.ui.plugin.BuildInfo" Type="class" Package="com.ibm.etools.validate.ui.plugin" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.rdblib.1230730571,343" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230730522,343" logging.util.agent_name="com.ibm.etools.rdblib" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230730571,343"/>
+<BuildInfo logging.util.id="com.ibm.etools.rdblib.BuildInfo_12307305713430000" logging.util.agent_idref="com.ibm.etools.rdblib" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305713430001" Name="com.ibm.etools.rdblib.BuildInfo" Type="class" Package="com.ibm.etools.rdblib" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.rsc.core.ui.1230730571,359" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230730522,343" logging.util.agent_name="com.ibm.etools.rsc.core.ui" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230730571,359"/>
+<BuildInfo logging.util.id="com.ibm.etools.rdblib.BuildInfo_12307305713590000" logging.util.agent_idref="com.ibm.etools.rsc.core.ui" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305713590001" Name="com.ibm.etools.rdblib.BuildInfo" Type="class" Package="com.ibm.etools.rdblib" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<BuildInfo logging.util.id="com.ibm.etools.rsc.core.ui.BuildInfo_12307305713750000" logging.util.agent_idref="com.ibm.etools.rsc.core.ui" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305713750001" Name="com.ibm.etools.rsc.core.ui.BuildInfo" Type="class" Package="com.ibm.etools.rsc.core.ui" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.rsc.1230730571,39" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230730522,343" logging.util.agent_name="com.ibm.etools.rsc" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230730571,39"/>
+<BuildInfo logging.util.id="com.ibm.etools.sqlmodel.providers.BuildInfo_12307305713900000" logging.util.agent_idref="com.ibm.etools.rsc" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305713900001" Name="com.ibm.etools.sqlmodel.providers.BuildInfo" Type="class" Package="com.ibm.etools.sqlmodel.providers" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.webtools.1230730580,921" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230730522,343" logging.util.agent_name="com.ibm.etools.webtools" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230730580,921"/>
+<BuildInfo logging.util.id="com.ibm.etools.logging.util.BuildInfo_12307305809210000" logging.util.agent_idref="com.ibm.etools.webtools" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305809210001" Name="com.ibm.etools.logging.util.BuildInfo" Type="class" Package="com.ibm.etools.logging.util" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<String logging.util.agent_idref="com.ibm.etools.webtools" logging.util.MsgLoggerLevel="CONFIG" Value="20031120_1915-WB212-AD-V511D-W5"/>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.Default Logging Agent.1230730581,687" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230730522,343" logging.util.agent_name="Default Logging Agent" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230730581,687"/>
+<BuildInfo logging.util.id="com.ibm.sed.preferences.BuildInfo_12307305816870000" logging.util.agent_idref="Default Logging Agent" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305816870001" Name="com.ibm.sed.preferences.BuildInfo" Type="class" Package="com.ibm.sed.preferences" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<BuildInfo logging.util.id="com.ibm.etools.rdblib.BuildInfo_12307305828280000" logging.util.agent_idref="com.ibm.etools.rsc" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305828280001" Name="com.ibm.etools.rdblib.BuildInfo" Type="class" Package="com.ibm.etools.rdblib" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<BuildInfo logging.util.id="com.ibm.etools.rsc.core.ui.BuildInfo_12307305828280002" logging.util.agent_idref="com.ibm.etools.rsc" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305828280003" Name="com.ibm.etools.rsc.core.ui.BuildInfo" Type="class" Package="com.ibm.etools.rsc.core.ui" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<BuildInfo logging.util.id="com.ibm.etools.rsc.BuildInfo_12307305828280004" logging.util.agent_idref="com.ibm.etools.rsc" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305828280005" Name="com.ibm.etools.rsc.BuildInfo" Type="class" Package="com.ibm.etools.rsc" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.sqlparse.1230730583,812" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230730522,343" logging.util.agent_name="com.ibm.etools.sqlparse" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230730583,812"/>
+<BuildInfo logging.util.id="com.ibm.etools.sqlparse.BuildInfo_12307305838120000" logging.util.agent_idref="com.ibm.etools.sqlparse" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305838120001" Name="com.ibm.etools.sqlparse.BuildInfo" Type="class" Package="com.ibm.etools.sqlparse" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.sed.editor.1230730584,203" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230730522,343" logging.util.agent_name="com.ibm.sed.editor" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230730584,203"/>
+<BuildInfo logging.util.id="com.ibm.sed.editor.BuildInfo_12307305842180000" logging.util.agent_idref="com.ibm.sed.editor" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305842180001" Name="com.ibm.sed.editor.BuildInfo" Type="class" Package="com.ibm.sed.editor" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<BuildInfo logging.util.id="com.ibm.sed.jseditor.BuildInfo_12307305844840000" logging.util.agent_idref="Default Logging Agent" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307305844840001" Name="com.ibm.sed.jseditor.BuildInfo" Type="class" Package="com.ibm.sed.jseditor" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<PROCESS_CREATE logging.util.process_id="PROCESS_CREATE.eclipse.1230732502,39" logging.util.pid="24183153" logging.util.node_idref="NODE.HPT-Desex3.laaraucana.local" logging.util.time="1230732502,39" logging.util.process_environment="unknown" logging.util.process_application_execution=""/>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.logging.util.1230732502,187" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230732502,39" logging.util.agent_name="com.ibm.etools.logging.util" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230732502,187"/>
+<BuildInfo logging.util.id="com.ibm.etools.logging.util.BuildInfo_12307325023120000" logging.util.agent_idref="com.ibm.etools.logging.util" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325023120001" Name="com.ibm.etools.logging.util.BuildInfo" Type="class" Package="com.ibm.etools.logging.util" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.validation.1230732504,578" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230732502,39" logging.util.agent_name="com.ibm.etools.validation" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230732504,578"/>
+<BuildInfo logging.util.id="com.ibm.etools.validate.plugin.BuildInfo_12307325045780000" logging.util.agent_idref="com.ibm.etools.validation" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325045780001" Name="com.ibm.etools.validate.plugin.BuildInfo" Type="class" Package="com.ibm.etools.validate.plugin" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<BuildInfo logging.util.id="com.ibm.etools.validate.mof.plugin.BuildInfo_12307325046250000" logging.util.agent_idref="com.ibm.etools.validation" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325046250001" Name="com.ibm.etools.validate.mof.plugin.BuildInfo" Type="class" Package="com.ibm.etools.validate.mof.plugin" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.sed.model.1230732504,64" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230732502,39" logging.util.agent_name="com.ibm.sed.model" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230732504,64"/>
+<BuildInfo logging.util.id="com.ibm.sed.model.BuildInfo_12307325046560000" logging.util.agent_idref="com.ibm.sed.model" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325046560001" Name="com.ibm.sed.model.BuildInfo" Type="class" Package="com.ibm.sed.model" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<BuildInfo logging.util.id="com.ibm.etools.validate.ui.plugin.BuildInfo_12307325050930000" logging.util.agent_idref="com.ibm.etools.validation" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325051090000" Name="com.ibm.etools.validate.ui.plugin.BuildInfo" Type="class" Package="com.ibm.etools.validate.ui.plugin" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.sed.editor.1230732505,218" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230732502,39" logging.util.agent_name="com.ibm.sed.editor" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230732505,218"/>
+<BuildInfo logging.util.id="com.ibm.sed.editor.BuildInfo_12307325052180000" logging.util.agent_idref="com.ibm.sed.editor" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325052180001" Name="com.ibm.sed.editor.BuildInfo" Type="class" Package="com.ibm.sed.editor" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.Default Logging Agent.1230732505,265" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230732502,39" logging.util.agent_name="Default Logging Agent" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230732505,265"/>
+<BuildInfo logging.util.id="com.ibm.sed.preferences.BuildInfo_12307325052650000" logging.util.agent_idref="Default Logging Agent" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325052650001" Name="com.ibm.sed.preferences.BuildInfo" Type="class" Package="com.ibm.sed.preferences" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.rdblib.1230732506,39" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230732502,39" logging.util.agent_name="com.ibm.etools.rdblib" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230732506,39"/>
+<BuildInfo logging.util.id="com.ibm.etools.rdblib.BuildInfo_12307325063900000" logging.util.agent_idref="com.ibm.etools.rdblib" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325063900001" Name="com.ibm.etools.rdblib.BuildInfo" Type="class" Package="com.ibm.etools.rdblib" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.rsc.core.ui.1230732506,453" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230732502,39" logging.util.agent_name="com.ibm.etools.rsc.core.ui" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230732506,453"/>
+<BuildInfo logging.util.id="com.ibm.etools.rdblib.BuildInfo_12307325064530000" logging.util.agent_idref="com.ibm.etools.rsc.core.ui" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325064530001" Name="com.ibm.etools.rdblib.BuildInfo" Type="class" Package="com.ibm.etools.rdblib" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<BuildInfo logging.util.id="com.ibm.etools.rsc.core.ui.BuildInfo_12307325064530002" logging.util.agent_idref="com.ibm.etools.rsc.core.ui" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325064530003" Name="com.ibm.etools.rsc.core.ui.BuildInfo" Type="class" Package="com.ibm.etools.rsc.core.ui" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.rsc.1230732506,468" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230732502,39" logging.util.agent_name="com.ibm.etools.rsc" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230732506,468"/>
+<BuildInfo logging.util.id="com.ibm.etools.sqlmodel.providers.BuildInfo_12307325064680000" logging.util.agent_idref="com.ibm.etools.rsc" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325064680001" Name="com.ibm.etools.sqlmodel.providers.BuildInfo" Type="class" Package="com.ibm.etools.sqlmodel.providers" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.webtools.1230732508,171" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230732502,39" logging.util.agent_name="com.ibm.etools.webtools" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230732508,171"/>
+<BuildInfo logging.util.id="com.ibm.etools.logging.util.BuildInfo_12307325081870000" logging.util.agent_idref="com.ibm.etools.webtools" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325081870001" Name="com.ibm.etools.logging.util.BuildInfo" Type="class" Package="com.ibm.etools.logging.util" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<String logging.util.agent_idref="com.ibm.etools.webtools" logging.util.MsgLoggerLevel="CONFIG" Value="20031120_1915-WB212-AD-V511D-W5"/>
+<BuildInfo logging.util.id="com.ibm.etools.rdblib.BuildInfo_12307325094060000" logging.util.agent_idref="com.ibm.etools.rsc" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325094060001" Name="com.ibm.etools.rdblib.BuildInfo" Type="class" Package="com.ibm.etools.rdblib" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<BuildInfo logging.util.id="com.ibm.etools.rsc.core.ui.BuildInfo_12307325094060002" logging.util.agent_idref="com.ibm.etools.rsc" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325094060003" Name="com.ibm.etools.rsc.core.ui.BuildInfo" Type="class" Package="com.ibm.etools.rsc.core.ui" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<BuildInfo logging.util.id="com.ibm.etools.rsc.BuildInfo_12307325094060004" logging.util.agent_idref="com.ibm.etools.rsc" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325094060005" Name="com.ibm.etools.rsc.BuildInfo" Type="class" Package="com.ibm.etools.rsc" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.sqlparse.1230732509,531" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230732502,39" logging.util.agent_name="com.ibm.etools.sqlparse" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230732509,531"/>
+<BuildInfo logging.util.id="com.ibm.etools.sqlparse.BuildInfo_12307325095310000" logging.util.agent_idref="com.ibm.etools.sqlparse" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325095310001" Name="com.ibm.etools.sqlparse.BuildInfo" Type="class" Package="com.ibm.etools.sqlparse" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<BuildInfo logging.util.id="com.ibm.sed.jseditor.BuildInfo_12307325101870000" logging.util.agent_idref="Default Logging Agent" logging.util.MsgLoggerLevel="CONFIG" WSABuildLevel="20031120_1915-WB212-AD-V511D-W5">
+ <Class Instance_Name="Class" logging.util.id="java.lang.Class_12307325101870001" Name="com.ibm.sed.jseditor.BuildInfo" Type="class" Package="com.ibm.sed.jseditor" Modifers="public" Superclass="java.lang.Object"/>
+</BuildInfo>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.websphere.tools.common.1230732572,281" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230732502,39" logging.util.agent_name="com.ibm.etools.websphere.tools.common" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230732572,281"/>
+<String logging.util.agent_idref="com.ibm.etools.websphere.tools.common" logging.util.MsgLoggerLevel="CONFIG" Value="5.1.1"/>
+<String logging.util.agent_idref="com.ibm.etools.websphere.tools.common" logging.util.MsgLoggerLevel="WARNING" Value="2 Wed Dec 31 10:09:32 VET 2008 com.ibm.etools.websphere.tools.WebSpherePlugin.startup(): Cannot set the DB2 driver location java variable."/>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.websphere.tools.v5.common.1230733185,218" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230732502,39" logging.util.agent_name="com.ibm.etools.websphere.tools.v5.common" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230733185,218"/>
+<String logging.util.agent_idref="com.ibm.etools.websphere.tools.v5.common" logging.util.MsgLoggerLevel="CONFIG" Value="5.1.1"/>
+<String logging.util.agent_idref="com.ibm.etools.websphere.tools.v5.common" logging.util.MsgLoggerLevel="WARNING" Value="2 Wed Dec 31 10:19:45 VET 2008 com.ibm.etools.websphere.tools.v5.common.internal.WebSpherePluginV5Common.startup(): Cannot set the impl factory property jar file java variable."/>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.websphere.tools.v51.1230733185,546" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230732502,39" logging.util.agent_name="com.ibm.etools.websphere.tools.v51" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230733185,546"/>
+<String logging.util.agent_idref="com.ibm.etools.websphere.tools.v51" logging.util.MsgLoggerLevel="CONFIG" Value="5.1.1"/>
+<String logging.util.agent_idref="com.ibm.etools.websphere.tools.v5.common" logging.util.MsgLoggerLevel="WARNING" Value="2 Wed Dec 31 10:19:45 VET 2008 com.ibm.etools.websphere.tools.v51.WebSpherePluginV51.startup(): Cannot set the impl factory property jar file java variable."/>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.websphere.tools.v5.1230733187,218" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230732502,39" logging.util.agent_name="com.ibm.etools.websphere.tools.v5" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230733187,218"/>
+<String logging.util.agent_idref="com.ibm.etools.websphere.tools.v5" logging.util.MsgLoggerLevel="CONFIG" Value="5.1.1"/>
+<String logging.util.agent_idref="com.ibm.etools.websphere.tools.v5.common" logging.util.MsgLoggerLevel="WARNING" Value="2 Wed Dec 31 10:19:47 VET 2008 com.ibm.etools.websphere.tools.v5.WebSpherePluginV5.startup(): Cannot set the impl factory property jar file java variable."/>
+<AGENT_CREATE logging.util.agent_id="AGENT_CREATE.com.ibm.etools.websphere.tools.v4.1230733187,859" logging.util.agent_version="1.000" logging.util.process_idref="PROCESS_CREATE.eclipse.1230732502,39" logging.util.agent_name="com.ibm.etools.websphere.tools.v4" logging.util.agent_type="Logging" logging.util.agent_parameters="" logging.util.time="1230733187,859"/>
+<String logging.util.agent_idref="com.ibm.etools.websphere.tools.v4" logging.util.MsgLoggerLevel="CONFIG" Value="5.1.1"/>

@@ -1,0 +1,17 @@
+/*
+ * Creado el 31-12-2008
+ *
+ * Para cambiar la plantilla para este archivo generado vaya a
+ * Ventana&gt;Preferencias&gt;Java&gt;Generación de código&gt;Código y comentarios
+ */
+package thread2;
+
+/**
+ * @author usist28
+ *
+ * Para cambiar la plantilla para este comentario de tipo generado vaya a
+ * Ventana&gt;Preferencias&gt;Java&gt;Generación de código&gt;Código y comentarios
+ */
+public class Productor {
+
+}

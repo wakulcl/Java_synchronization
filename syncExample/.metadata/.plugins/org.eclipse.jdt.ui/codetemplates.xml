@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates><codetemplate context="constructorcomment_context" description="Comentario para constructores creados" enabled="true" name="constructorcomment">/**
+ * ${tags}
+ */</codetemplate><codetemplate context="typecomment_context" description="Comentario para tipos creados" enabled="true" name="typecomment">/**
+ * @author ${user}
+ *
+ * Para cambiar la plantilla para este comentario de tipo generado vaya a
+ * Ventana&amp;gt;Preferencias&amp;gt;Java&amp;gt;Generación de código&amp;gt;Código y comentarios
+ */</codetemplate><codetemplate context="methodcomment_context" description="Comentario para métodos no de sobreescritura" enabled="true" name="methodcomment">/**
+ * ${tags}
+ */</codetemplate><codetemplate context="overridecomment_context" description="Comentario para métodos de sobreescritura" enabled="true" name="overridecomment">/* (no Javadoc)
+ * ${see_to_overridden}
+ */</codetemplate><codetemplate context="newtype_context" description="Archivos creados recientemente" enabled="true" name="newtype">/*
+ * Creado el ${date}
+ *
+ * Para cambiar la plantilla para este archivo generado vaya a
+ * Ventana&amp;gt;Preferencias&amp;gt;Java&amp;gt;Generación de código&amp;gt;Código y comentarios
+ */
+${package_declaration}
+
+${typecomment}
+${type_declaration}</codetemplate><codetemplate context="catchblock_context" description="Código en bloques catch nuevos" enabled="true" name="catchblock">// ${todo} Bloque catch generado automáticamente
+${exception_var}.printStackTrace();</codetemplate><codetemplate context="methodbody_context" description="Código en apéndices de método creados" enabled="true" name="methodbody">// ${todo} Apéndice de método generado automáticamente
+${body_statement}</codetemplate><codetemplate context="constructorbody_context" description="Código en apéndices de constructor creados" enabled="true" name="constructorbody">${body_statement}
+// ${todo} Apéndice de constructor generado automáticamente</codetemplate></templates>

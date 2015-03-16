@@ -1,0 +1,120 @@
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.765 ----->----- Server Core plugin startup ----->-----
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.765 com.ibm.etools.server.core - 5.1.1
+com.ibm.etools.server.core SEVERE  31/12/08 10:08.27.765 Could not load temporary directory information: C:\desarrollo\jarExample\.metadata\.plugins\com.ibm.etools.server.core\tmp-data.xml (El sistema no puede hallar el archivo especificado.
+)
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781 ->- Loading .factories extension point ->-
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server category: com.ibm.etools.tomcat.category.v32
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server category: com.ibm.etools.tomcat.category.v40
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server category: com.ibm.etools.tomcat.category.v41
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server category: com.ibm.etools.websphere.category.v51
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server category: com.ibm.etools.websphere.category.v5
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server category: com.ibm.etools.websphere.category.v4
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server resource factory: com.ibm.websphere.v5.configuration.express
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server resource factory: com.ibm.websphere.v5.server.remote.express
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server resource factory: com.ibm.websphere.v51.configuration.base
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server resource factory: com.ibm.websphere.v51.server.remote.base
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server resource factory: com.ibm.etools.tcpip.monitor.server
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server resource factory: com.ibm.etools.tcpip.monitor.configuration
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server resource factory: com.ibm.etools.publishing.server.factory.WebServerConfigurationFactory
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server resource factory: com.ibm.etools.publishing.server.factory.WebServerInstanceFactory
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server resource factory: com.ibm.etools.publishing.server.factory.StaticWebServerConfigurationFactory
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server resource factory: com.ibm.etools.publishing.server.factory.StaticWebServerInstanceFactory
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server resource factory: com.ibm.etools.serverattach.instance.express
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server resource factory: com.ibm.etools.serverattach.configuration.express
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server resource factory: com.ibm.etools.serverattach.instance.express51
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server resource factory: com.ibm.etools.serverattach.configuration.express51
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.781   Loaded server resource factory: com.ibm.etools.serverattach.instance.generic
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.796   Loaded server resource factory: com.ibm.etools.serverattach.configuration.generic
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.796   Loaded server resource factory: com.ibm.websphere.v51.server.base
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.796   Loaded server resource factory: com.ibm.etools.tomcat.category.v32
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.796   Loaded server resource factory: com.ibm.etools.tomcat.category.v40
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.796   Loaded server resource factory: com.ibm.etools.tomcat.category.v41
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.796   Loaded server resource factory: com.ibm.etools.tomcat.server.unittest.32
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.796   Loaded server resource factory: com.ibm.etools.tomcat.server.local.32
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.796   Loaded server resource factory: com.ibm.etools.tomcat.serverConfiguration.32
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.843   Loaded server resource factory: com.ibm.etools.tomcat.server.unittest.40
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.843   Loaded server resource factory: com.ibm.etools.tomcat.server.local.40
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.843   Loaded server resource factory: com.ibm.etools.tomcat.serverConfiguration.40
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.843   Loaded server resource factory: com.ibm.etools.tomcat.server.unittest.41
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.843   Loaded server resource factory: com.ibm.etools.tomcat.server.local.41
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.843   Loaded server resource factory: com.ibm.etools.tomcat.serverConfiguration.41
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.843   Loaded server resource factory: com.ibm.etools.websphere.category.v51
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.843   Loaded server resource factory: com.ibm.etools.serverattach.instance.v5
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.843   Loaded server resource factory: com.ibm.etools.serverattach.configuration.v5
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.843   Loaded server resource factory: com.ibm.etools.serverattach.instance.v51
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.843   Loaded server resource factory: com.ibm.etools.serverattach.configuration.v51
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.843   Loaded server resource factory: com.ibm.etools.serverattach.instance.v4
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.843   Loaded server resource factory: com.ibm.etools.serverattach.configuration.v4
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.843   Loaded server resource factory: com.ibm.websphere.v51.configuration.express
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.843   Loaded server resource factory: com.ibm.websphere.v51.server.remote.express
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.859   Loaded server resource factory: com.ibm.etools.websphere.category.v5
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.859   Loaded server resource factory: com.ibm.etools.websphere.category.v4
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.859   Loaded server resource factory: com.ibm.etools.websphere.tools.v4.internal.factory.WASConfigurationFactory
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.859   Loaded server resource factory: com.ibm.etools.websphere.tools.v4.internal.factory.WASRemoteServerFactory
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.859   Loaded server resource factory: com.ibm.websphere.v5.configuration.base
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.859   Loaded server resource factory: com.ibm.websphere.v5.server.remote.base
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.859 -<- Done loading .factories extension point -<-
+com.ibm.etools.server.core SEVERE  31/12/08 10:08.27.859 Could not load server creation cache file: C:\desarrollo\jarExample\.metadata\.plugins\com.ibm.etools.server.core\factories.xml (El sistema no puede hallar el archivo especificado.
+)
+com.ibm.etools.server.ui   CONFIG  31/12/08 10:08.27.859 ----->----- Server UI plugin startup ----->-----
+com.ibm.etools.server.ui   CONFIG  31/12/08 10:08.27.859 com.ibm.etools.server.ui - 5.1.1
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.890 ->- Loading .startup extension point ->-
+com.ibm.etools.server.util CONFIG  31/12/08 10:08.27.890 ----->----- Server Util plugin startup ----->-----
+com.ibm.etools.server.util CONFIG  31/12/08 10:08.27.890 com.ibm.etools.server.util - 5.1.1
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.890   Loaded startup: com.ibm.etools.server.util.startup
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.953   Loaded startup: com.ibm.etools.pd.server.util.startup
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.27.953 -<- Done loading .startup extension point -<-
+com.ibm.etools.server.core FINER   31/12/08 10:08.27.984 Loading existing servers and server configurations
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.37.890 ->- Loading .deployableObjectAdapters extension point ->-
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.37.890   Loaded deployableObjectAdapter: com.ibm.etools.server.j2ee.ear1
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.37.890   Loaded deployableObjectAdapter: com.ibm.etools.server.j2ee.ear2
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.37.890   Loaded deployableObjectAdapter: com.ibm.etools.server.j2ee.ear3
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.37.890   Loaded deployableObjectAdapter: com.ibm.etools.server.j2ee.ejb
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.37.890   Loaded deployableObjectAdapter: com.ibm.etools.server.j2ee.ejb2
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.37.890   Loaded deployableObjectAdapter: com.ibm.etools.server.j2ee.ejb3
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.37.890   Loaded deployableObjectAdapter: com.ibm.etools.server.j2ee.ejb4
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.37.890   Loaded deployableObjectAdapter: com.ibm.etools.server.j2ee.webresource
+com.ibm.etools.server.core CONFIG  31/12/08 10:08.37.890 -<- Done loading .deployableObjectAdapters extension point -<-
+com.ibm.etools.server.core SEVERE  31/12/08 10:09.10.234 Could not verify project nature: syncEx - El recurso /syncEx no está abierto.
+com.ibm.etools.server.core CONFIG  31/12/08 10:09.11.375 ->- Loading .deployableFactories extension point ->-
+com.ibm.etools.server.core CONFIG  31/12/08 10:09.11.375   Loaded deployableFactories: com.ibm.etools.server.j2ee.appclient
+com.ibm.etools.server.core CONFIG  31/12/08 10:09.11.375   Loaded deployableFactories: com.ibm.etools.server.j2ee.appclient13
+com.ibm.etools.server.core CONFIG  31/12/08 10:09.11.375   Loaded deployableFactories: com.ibm.etools.server.j2ee.connector13
+com.ibm.etools.server.core CONFIG  31/12/08 10:09.11.375   Loaded deployableFactories: com.ibm.etools.server.j2ee.ear12
+com.ibm.etools.server.core CONFIG  31/12/08 10:09.11.375   Loaded deployableFactories: com.ibm.etools.server.j2ee.ear13
+com.ibm.etools.server.core CONFIG  31/12/08 10:09.11.375   Loaded deployableFactories: com.ibm.etools.server.j2ee.ejb11
+com.ibm.etools.server.core CONFIG  31/12/08 10:09.11.375   Loaded deployableFactories: com.ibm.etools.server.j2ee.ejb20
+com.ibm.etools.server.core CONFIG  31/12/08 10:09.11.375   Loaded deployableFactories: com.ibm.etools.webtools.server
+com.ibm.etools.server.core CONFIG  31/12/08 10:09.11.375   Loaded deployableFactories: com.ibm.etools.webtools.server.static
+com.ibm.etools.server.core CONFIG  31/12/08 10:09.11.375   Loaded deployableFactories: com.ibm.etools.server.looseArchive
+com.ibm.etools.server.core CONFIG  31/12/08 10:09.11.375   Loaded deployableFactories: com.ibm.etools.server.core.missingDeployableFactory
+com.ibm.etools.server.core CONFIG  31/12/08 10:09.11.375 -<- Done loading .deployableFactories extension point -<-
+com.ibm.etools.serverattach FINER   31/12/08 10:19.45.109 ----->----- Server attach plugin startup ----->-----
+com.ibm.etools.serverattach CONFIG  31/12/08 10:19.45.109 com.ibm.etools.serverattach - 5.1.1 - Wed Dec 31 10:19:45 VET 2008
+com.ibm.etools.serverattach FINER   31/12/08 10:19.45.109 -----<----- Server attach plugin startup complete -----<-----
+com.ibm.etools.serverattach FINER   31/12/08 10:19.45.109 ----->----- Generic application server attach plugin startup ----->-----
+com.ibm.etools.serverattach CONFIG  31/12/08 10:19.45.109 com.ibm.etools.serverattach.generic - 5.1.1 - Wed Dec 31 10:19:45 VET 2008
+com.ibm.etools.serverattach FINER   31/12/08 10:19.45.109 -----<----- Generic application server attach plugin startup complete -----<-----
+com.ibm.etools.server.java  FINER   31/12/08 10:19.45.125 ----->----- Java Server plugin startup ----->-----
+com.ibm.etools.server.java  CONFIG  31/12/08 10:19.45.125 com.ibm.etools.server.java - 5.1.1
+com.ibm.etools.serverattach FINER   31/12/08 10:19.45.125 ----->----- v4 server attach plugin startup ----->-----
+com.ibm.etools.serverattach CONFIG  31/12/08 10:19.45.125 com.ibm.etools.serverattach.v4 - 5.1.1 - Wed Dec 31 10:19:45 VET 2008
+com.ibm.etools.serverattach FINER   31/12/08 10:19.45.125 -----<----- v4 server attach plugin startup complete -----<-----
+com.ibm.etools.serverattach FINER   31/12/08 10:19.45.125 ----->----- v5 server attach plugin startup ----->-----
+com.ibm.etools.serverattach CONFIG  31/12/08 10:19.45.125 com.ibm.etools.serverattach.v5 - 5.1.1 - Wed Dec 31 10:19:45 VET 2008
+com.ibm.etools.serverattach FINER   31/12/08 10:19.45.125 -----<----- v5 server attach plugin startup complete -----<-----
+com.ibm.etools.serverattach FINER   31/12/08 10:19.45.140 ----->----- V5 Express server attach plugin startup ----->-----
+com.ibm.etools.serverattach CONFIG  31/12/08 10:19.45.140 com.ibm.etools.serverattach.express - 5.1.1 - Wed Dec 31 10:19:45 VET 2008
+com.ibm.etools.serverattach FINER   31/12/08 10:19.45.140 -----<----- V5 Express server attach plugin startup complete -----<-----
+com.ibm.etools.tomcat       CONFIG  31/12/08 10:19.45.171 ----->----- Tomcat plugin startup ----->-----
+com.ibm.etools.tomcat       CONFIG  31/12/08 10:19.45.171 com.ibm.etools.tomcat - 5.1.1
+com.ibm.etools.tomcat       FINER   31/12/08 10:19.45.171 install loc: C:\Archivos de programa\IBM\WebSphere Studio\Application Developer\v5.1.1\eclipse\jre\jre
+com.ibm.etools.tcpip.monitor CONFIG  31/12/08 10:19.45.828 ----->----- Monitor server plugin startup ----->-----
+com.ibm.etools.tcpip.monitor CONFIG  31/12/08 10:19.45.828 com.ibm.etools.tcpip.monitor - 5.1.1
+com.ibm.etools.tomcat        CONFIG  31/12/08 11:42.02.750 -----<----- Tomcat plugin shutdown -----<-----
+com.ibm.etools.server.util   CONFIG  31/12/08 11:42.04.296 ----->----- Server Util plugin shutdown ----->-----
+com.ibm.etools.server.java   FINER   31/12/08 11:42.04.468 -----<----- Java Server plugin shutdown -----<-----
+com.ibm.etools.server.ui     CONFIG  31/12/08 11:42.04.500 -----<----- Server UI plugin shutdown -----<-----
+com.ibm.etools.server.ui     FINER   31/12/08 11:42.04.546 Disposing of element images
+com.ibm.etools.server.ui     FINER   31/12/08 11:42.04.546 Could not dispose of images
+com.ibm.etools.server.core   CONFIG  31/12/08 11:42.04.703 -----<----- Server Core plugin shutdown -----<-----

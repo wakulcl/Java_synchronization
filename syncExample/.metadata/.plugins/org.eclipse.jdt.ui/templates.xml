@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates><template context="java" description="iterar sobre matriz" enabled="true" name="for">for (int ${index} = 0; ${index} &lt; ${array}.length; ${index}++) {
+	${line_selection}${cursor}
+}</template><template context="java" description="iterar sobre matriz con variable temporal" enabled="true" name="for">for (int ${index} = 0; ${index} &lt; ${array}.length; ${index}++) {
+	${array_type} ${array_element} = ${array}[${index}];
+	${cursor}
+}</template><template context="java" description="iterar sobre colección" enabled="true" name="for">for (Iterator ${iterator} = ${collection}.iterator(); ${iterator}.hasNext(); ) {
+	${type} ${element} = (${type}) ${iterator}.next();
+	${cursor}
+}</template><template context="java" description="iterar con enumeración" enabled="true" name="while">while (${enumeration}.hasMoreElements()) {
+	${type} ${element} = (${type}) ${enumeration}.nextElement();
+	${cursor}
+}</template><template context="java" description="iterar con iterador" enabled="true" name="while">while (${iterator}.hasNext()) {
+	${type} ${element} = (${type}) ${iterator}.next();
+	${cursor}
+}</template><template context="java" description="sentencia do while" enabled="true" name="do">do {
+	${line_selection}${cursor}
+} while (${condition});</template><template context="java" description="sentencia switch case" enabled="true" name="switch">switch (${key}) {
+	case ${value}:
+		${cursor}
+		break;
+
+	default:
+		break;
+}</template><template context="java" description="sentencia if" enabled="true" name="if">if (${condition}) {
+	${line_selection}${cursor}
+}</template><template context="java" description="sentencia if else" enabled="true" name="ifelse">if (${condition}) {
+	${cursor}
+} else {
+	
+}</template><template context="java" description="bloque else if" enabled="true" name="elseif">else if (${condition}) {
+	${cursor}
+}</template><template context="java" description="bloque else" enabled="true" name="else">else {
+	${cursor}
+}</template><template context="java" description="bloque try catch" enabled="true" name="try">try {
+	${line_selection}${cursor}
+} catch (${Exception} e) {
+	// ${todo}: handle exception
+}</template><template context="java" description="bloque catch" enabled="true" name="catch">catch (${Exception} e) {
+	${cursor}// ${todo}: handle exception
+}</template><template context="java" description="método main" enabled="true" name="main">public static void main(String[] args) {
+	${cursor}
+}</template><template context="java" description="método public" enabled="true" name="public_method">public ${return_type} ${name}(${arguments}) {
+	${cursor}
+}</template><template context="java" description="método protected" enabled="true" name="protected_method">protected ${return_type} ${name}(${arguments}) {
+	${cursor}
+}</template><template context="java" description="método private" enabled="true" name="private_method">private ${return_type} ${name}(${arguments}) {
+	${cursor}
+}</template><template context="java" description="método private static" enabled="true" name="private_static_method">private static ${return_type} ${name}(${arguments}) {
+	${cursor}
+}</template><template context="java" description="conversión y prueba de tipo dinámica" enabled="true" name="instanceof">if (${name} instanceof ${type}) {
+	${type} ${new_name} = (${type})${name};
+	${cursor}
+}</template><template context="java" description="conversión dinámica" enabled="true" name="cast">${type} ${new_name} = (${type}) ${name};</template><template context="java" description="crear objeto nuevo" enabled="true" name="new">${type} ${name} = new ${type}(${arguments});</template><template context="java" description="creación lazy" enabled="true" name="lazy">if (${name} == null) {
+	${name} = new ${type}(${arguments});
+	${cursor}
+}
+
+return ${name};</template><template context="java" description="convertir colección en matriz" enabled="true" name="toarray">(${type}[]) ${collection}.toArray(new ${type}[${collection}.size()]);</template><template context="java" description="imprimir en salida estándar" enabled="true" name="sysout">System.out.println(${word_selection}${cursor});</template><template context="java" description="imprimir en error estándar" enabled="true" name="syserr">System.err.println(${word_selection}${cursor});</template><template context="javadoc" description="&lt;code&gt;&lt;/code&gt;" enabled="true" name="&lt;code&gt;">&lt;code&gt;${word_selection}${cursor}&lt;/code&gt;</template><template context="javadoc" description="&lt;code&gt;null&lt;/code&gt;" enabled="true" name="&lt;code&gt;">&lt;code&gt;null&lt;/code&gt;</template><template context="javadoc" description="&lt;pre&gt;&lt;/pre&gt;" enabled="true" name="&lt;pre&gt;">&lt;pre&gt;${word_selection}${cursor}&lt;/pre&gt;</template><template context="javadoc" description="&lt;b&gt;&lt;/b&gt;" enabled="true" name="&lt;b&gt;">&lt;b&gt;${word_selection}${cursor}&lt;/b&gt;</template><template context="javadoc" description="&lt;i&gt;&lt;/i&gt;" enabled="true" name="&lt;i&gt;">&lt;i&gt;${word_selection}${cursor}&lt;/i&gt;</template><template context="javadoc" description="nombre del autor" enabled="true" name="@author">@author ${user}</template><template context="java" description="condición while loop with" enabled="true" name="while">while (${condition}) {
+	${line_selection}${cursor}
+}</template><template context="java" description="método de prueba" enabled="true" name="test">public void test${name}() {
+	${cursor} 
+}</template><template context="java" description="imprimir método actual en la salida estándar" enabled="true" name="systrace">System.out.println(&quot;${enclosing_type}.${enclosing_method}()&quot;);</template></templates>

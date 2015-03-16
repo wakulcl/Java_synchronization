@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- File written by Update manager 2.0 -->
+<!-- comments in this file are not preserved -->
+
+<configuration date="1171642445406" timeline="1171642445406" >
+   <site url="file:C:/Archivos de programa/IBM/WebSphere Studio/Application Developer/v5.1.1/eclipse/"
+      platformURL="platform:/base/"
+      enable="true"
+      policy="1" >
+      <feature configured = "true" url="features/org.eclipse.hyades.sdk.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.xsd.doc.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.hyades.source.nls1_2.1.2/" />
+      <feature configured = "true" url="features/com.ibm.wswb.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.xsd.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.hyades.memory.analysis.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.emf.source.nls1_2.1.2/" />
+      <feature configured = "true" url="features/com.ibm.lpex_1.4.4/" />
+      <feature configured = "true" url="features/com.ibm.wswb.sdk.win32_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.hyades.examples_1.0.3.1/" />
+      <feature configured = "true" url="features/org.eclipse.platform_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.hyades.sdk_1.0.3.1/" />
+      <feature configured = "true" url="features/org.eclipse.gef.source_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.emf.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.hyades.examples.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.hyades.memory.analysis_1.0.3.1/" />
+      <feature configured = "true" url="features/com.ibm.lpex.nls1_2.1.2/" />
+      <feature configured = "true" url="features/com.ibm.wsappdev.ga.win32_5.1.1/" />
+      <feature configured = "true" url="features/org.eclipse.platform.win32_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.gef.source.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.hyades.models.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.xsd.source.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.emf.doc_1.1.1/" />
+      <feature configured = "true" url="features/org.eclipse.emf_1.1.1/" />
+      <feature configured = "true" url="features/org.eclipse.hyades.core.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.jdt_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.hyades.models_1.0.3.1/" />
+      <feature configured = "true" url="features/org.eclipse.jdt.source.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.pde_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.pde.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.emf.source_1.1.1/" />
+      <feature configured = "true" url="features/com.ibm.wswb.sdk.win32.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.hyades_1.0.3.1/" />
+      <feature configured = "true" url="features/org.eclipse.hyades.core_1.0.3.1/" />
+      <feature configured = "true" url="features/org.eclipse.platform.win32.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.emf.doc.nls1_2.1.2/" />
+      <feature configured = "true" url="features/com.ibm.wswb.win32.nls1_2.1.2/" />
+      <feature configured = "true" url="features/com.ibm.wswb.sdk_2.1.2/" />
+      <feature configured = "true" url="features/com.ibm.wsappdev.ga.win32.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/org.eclipse.platform.win32.source_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.platform.win32.source.nls1_2.1.2/" />
+      <feature configured = "true" url="features/com.ibm.wswb_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.hyades.source_1.0.3.1/" />
+      <feature configured = "true" url="features/org.eclipse.gef.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.platform.source_2.1.2/" />
+      <feature configured = "true" url="features/com.ibm.wswb.win32_2.1.2.1/" />
+      <feature configured = "true" url="features/org.eclipse.xsd.doc_1.1.1/" />
+      <feature configured = "true" url="features/org.eclipse.platform.source.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.jdt.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.hyades.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.platform.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.xsd.source_1.1.1/" />
+      <feature configured = "true" url="features/com.ibm.wswb.sdk.nls1_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.gef_2.1.2/" />
+      <feature configured = "true" url="features/org.eclipse.xsd_1.1.1/" />
+      <feature configured = "true" url="features/org.eclipse.jdt.source_2.1.2/" />
+   </site>
+
+   <site url="file:C:/Archivos de programa/IBM/WebSphere Studio/Application Developer/v5.1.1/wstools/eclipse/"
+      platformURL="file:C:/Archivos de programa/IBM/WebSphere Studio/Application Developer/v5.1.1/wstools/eclipse/"
+      enable="true"
+      policy="1" >
+      <feature configured = "true" url="features/com.ibm.etools.server.tools.ejb.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.logging.util.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.websphere.common.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.j2ee.tools.core.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.debug.javascript_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.webservices.core.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.was4-faqs.nl1_1.0.0/" />
+      <feature configured = "true" url="features/com.ibm.wssd.examples.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.server.tools.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.cloud-faqs_1.0.0/" />
+      <feature configured = "true" url="features/com.ibm.wsad.prod_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.was4-faqs_1.0.0/" />
+      <feature configured = "true" url="features/com.ibm.etools.jve.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.j2ee.samples.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.wsad-faqs.nl1_1.0.1/" />
+      <feature configured = "true" url="features/com.ibm.websphere.aes.v4.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.websphere.v4.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.ws-base_1.0.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.ejbdeploy.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.websphere.v5.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.ws-base.nl1_1.0.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.xml.tools.core.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.websphere.v5.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.database.tools.win32.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.server.tools.core.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.server.tools.ejb.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.validation.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.core_1.0.0/" />
+      <feature configured = "true" url="features/com.ibm.debug.javascript.nl1.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.was5-faqs_1.0.0/" />
+      <feature configured = "true" url="features/com.ibm.etools.web.tools.core.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.wsad.win32_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.serverattach.express_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.security.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.j2ee.tools.core.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.wsad-faqs_1.0.1/" />
+      <feature configured = "true" url="features/com.ibm.wsad.prod.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.wsad.doc.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.webservices.uddi.registry.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.web.tools.enhancement.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.association.engine.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.debug.activescript.win32_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.common.util.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.ejbdeploy.core.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.component.test.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.webservices.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.debug.help.doc.nl1.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.was5x-faqs_1.0.0/" />
+      <feature configured = "true" url="features/com.ibm.etools.serverattach.nl1.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.struts.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.websphere.v51.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.struts.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.jve.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.server.tools.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.xml.editor.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.debug.wsa.nl1.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.db2-faqs_1.0.0/" />
+      <feature configured = "true" url="features/com.ibm.etools.webservices.ejb.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.rad.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.webservices.uddi.registry.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.wasexpress_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.websphere.base.v5.core.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.database.tools.core.win32.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.xml.tools.core.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.cloud-faqs.nl1_1.0.0/" />
+      <feature configured = "true" url="features/com.ibm.etools.serverattach.v4.nl1.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.websphere.v51.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.websphere.base.v51.te.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.debug.pdt.win32_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.tomcat.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.memory.analysis.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.wssd.examples.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.serverattach.v4_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.serverattach_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.web.tools.enhancement.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.web.tools.win32.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.was5-faqs.nl1_1.0.0/" />
+      <feature configured = "true" url="features/com.ibm.etools.xml.schema.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.webservices.ejb.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.j2ee.tools.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.wsad.prod.ga.win32_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.xml.editor.win32.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.wssd.win32_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.database.tools.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.j2ee.samples.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.association.engine.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.debug.activescript.nl1.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.debug.spd_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.serverattach.generic_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.server.tools.core.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.sqlj.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.webservices.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.ac.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.rad.codegen.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.wsad_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.core.nl1_1.0.0/" />
+      <feature configured = "true" url="features/com.ibm.debug.pdt.nl1.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.doc.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.xml.schema.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.serverattach.v5_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.debug.spd.nl1.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.common.frameworks.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.serverattach.generic.nl1.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.webservices.core.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.web.tools.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.logging.util.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.resources.common.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.websphere.base.v51.te.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.websphere.common.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.was5x-faqs.nl1_1.0.0/" />
+      <feature configured = "true" url="features/com.ibm.debug.help.doc_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.sqlj.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.xml.editor.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.wasexpress.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.ejbdeploy.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.websphere.base.v5.core.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.validation.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.xml.tools.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.security.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.wsad.doc.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.db2-faqs.nl1_1.0.0/" />
+      <feature configured = "true" url="features/com.ibm.etools.parser.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.xml.editor.core.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.rad.codegen.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.parser.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.common.frameworks.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.wasexpress.win32_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.component.test.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.database.tools.core.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.doc.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.websphere.base.v51.core.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.tomcat.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.xml.tools.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.serverattach.express.nl1.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.debug.pdt_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.websphere.v4.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.web.tools.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.web.tools.win32.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.rational.xtools.umlvisualizer.feature.nl1_1.0.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.websphere.base.v51.core.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.rad.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.database.tools.core.feature.nl1_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.web.tools.core.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.debug.wsa_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.j2ee.tools.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.rational.xtools.umlvisualizer_1.0.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.wsad-prod.feature_1.0.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.web.tools.v4.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.wssd_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.xml.editor.core.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.serverattach.v5.nl1.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.etools.database.tools.feature_5.1.1/" />
+      <feature configured = "true" url="features/com.ibm.faq.wsad-prod.feature.nl1_1.0.1/" />
+   </site>
+
+   <activity action="3" 
+      label="file:C:/Archivos de programa/IBM/WebSphere Studio/Application Developer/v5.1.1/eclipse/" 
+      date="1171642446562" 
+      status="0">
+   </activity>
+
+   <activity action="3" 
+      label="file:C:/Archivos de programa/IBM/WebSphere Studio/Application Developer/v5.1.1/wstools/eclipse/" 
+      date="1171642448656" 
+      status="0">
+   </activity>
+
+   <activity action="8" 
+      label="file:C:/Archivos de programa/IBM/WebSphere Studio/Application Developer/v5.1.1/eclipse/.config/platform.cfg.metadata/v2LocalSite.xml" 
+      date="1171642448844" 
+      status="0">
+   </activity>
+
+</configuration>
+

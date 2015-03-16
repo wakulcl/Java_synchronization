@@ -1,0 +1,12 @@
+package thread1;
+
+
+public class ProcesoManager{
+	public static void procesar(String thread){
+		System.out.println(">> procesar() : thread: "+thread);
+		for (int i = 0; i < 50; i++) {
+			System.out.print(""+i+"\t");
+		}
+		System.out.println("\n<< procesar()  : thread: "+thread);
+	}
+}

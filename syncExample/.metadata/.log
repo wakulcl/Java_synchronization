@@ -1,0 +1,6 @@
+!SESSION dic 31, 2008 10:55:14.578 ---------------------------------------------
+java.fullversion=J2RE 1.3.1 IBM J9 build 20031103 (JIT enabled)
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_CL
+Command-line arguments: -os win32 -ws win32 -arch x86 -data C:\desarrollo\jarExample -install file:C:/Archivos de programa/IBM/WebSphere Studio/Application Developer/v5.1.1/eclipse/
+!ENTRY org.eclipse.core.resources 4 368 dic 31, 2008 10:55:14.593
+!MESSAGE El recurso /syncEx/thread1/Thread2.java no existe.

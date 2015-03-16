@@ -1,0 +1,10 @@
+package thread1;
+
+
+public class ProcesoManager extends Thread {
+	public static synchronized void procesar(){
+		System.out.println(">> procesar()");
+		wait(2);
+		System.out.println("<< procesar() ");
+	}
+}
